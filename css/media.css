@@ -50,7 +50,16 @@
             height: 43px;
         }
 
-        .explore-icon-a a{
+    .header-a a {
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 13px;
+    }
+    .header-btn2 {
+    padding: 11px 19px;
+        font-size: 12px;
+    }
+    .explore-icon-a a{
             font-weight: 300;
             font-size: 15px;
         }
@@ -374,11 +383,374 @@
          line-height: 29px;
          margin-bottom: 8px;
     }
+    .top-seller h1 {
+        font-size: 33px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+    .ripon-img img{
+        width: 45px;
+    }
+    .Ripoahmed {
+        width: 200px;
+        height: 84px;
+        border-radius: 13px;
+    }
+    .ripo h3 {
+        font-size: 13px;
+
+    }
+    .ripo p {
+        margin-top: 3px;
+
+        font-size: 11px;
+        line-height: 5px;
+    }
+    .swiper-button-next:after, .swiper-button-prev:after {
+        font-size: 15px;
+    }
+    .our-latest-blog{
+        flex-wrap: wrap;
+    }
+    .newsletter-block1 h3 {
+        padding-top: 73px;
+        font-size: 16px;
+        line-height: 31px;
+        margin-bottom: 18px;
+    }
+    .newsletter-block1 p {
+        font-size: 9px;
+        line-height: 14px;
+    }
+    .footer-input {
+        padding: 6px 8px 9px 7px;
+    }
+    .footer-icon-telegram {
+        top: 196px;
+        height: 31px;
+        width: 31px;
+    }
+    .footer-input::placeholder{
+        font-size: 10px;
+    }
 }
 @media (max-width: 480px) {
+    .header-btn{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .header-btn2 {
+        padding: 4px 27px;
+        font-size: 8px;
+    }
+    .header-a{
+        flex-wrap: wrap;
+    }
+    .sakals{
+       flex-wrap: wrap;
+    }
+    .statue-img img {
+        width: 181px;
+        height: 273px;
+    }
+    .Statue {
+        height: 271px;
+        width: 300px;
+    }
+    .sakal-nft img {
+        margin-top: 10px;
+        width: 132px;
+    }
+    .sakal-nft p {
+        font-size: 9px;
+        margin-top: 1px;
+        margin-left: 18px;
+    }
+    .learn-history {
+        width: 381px;
+    }
+    .learn-history button {
+        font-size: 7px;
+        padding: 3px 14px;
+        border: 1px solid blueviolet;
+    }
+    .buy-img1 {
+        width: 51px;
+        left: 291px;
+    }
+    .buy-img3 {
+        left: 309px;
+        width: 112px;
+        top: 57px;
+    }
+    .buy-kvadrat {
+        width: 43px;
+        height: 43px;
+        top: -18px;
+        left: 365px;
+    }
+    #header {
+        padding-bottom: 56px;
+        padding-top: 10px;
+    }
+    .create-and-sell h1 {
+        font-size: 18px;
+        margin-bottom: 58px;
+    }
+    .create-blocks{
+        width: 420px;
+
+    }
+    .create-block1 p{
+        width: 120px;
+        font-size: 9px;
+    }
+    .create-block1 h4 {
+        font-size: 11px;
+        margin-bottom: 0px;
+    }
+    .create-block1 img {
+        margin-left: 36px;
+        width: 62px;
+        margin-bottom: 1px;
+        margin-top: 15px;
+    }
+    .create-block1 p {
+        font-size: 12px;
+        line-height: 13px;
+    }
+    .create-and-sell h1 {
+        margin-bottom: 26px;
+    }
+    #top-galleries h1 {
+        font-size: 23px;
+        padding-top: 44px;
+        margin-bottom: 31px;
+    }
+    .top-galleries{
+        flex-wrap: wrap;
+    }
+    .vactor-img img {
+        width: 122px;
+        height: 182px;
+    }
+    .Vactor-with-corona {
+        padding: 14px 17px;
+        height: 220px;
+        width: 164px;
+    }
+    .cap img {
+        width: 45px;
+    }
+    .vactor-img img {
+        width: 113px;
+        height: 164px;
+    }
+    #top-galleries button {
+        padding: 11px 28px;
+        border-radius: 4px;
+        font-size: 10px;
+    }
+    #top-seller {
+        padding-top: 63px;
+    }
+    .top-seller h1 {
+        font-size: 25px;
+        line-height: 37px;
+        margin-bottom: 13px;
+    }
+    .Ripoahmed {
+        width: 130px;
+        height: 86px;
+        border-radius: 3px;
+    }
+    .ripon-img img {
+        width: 34px;
+    }
+    .ripo p {
+        margin-top: 1px;
+        font-size: 9px;
+        line-height: 1px;
+    }
+    .ripo h3 {
+        font-size: 9px;
+    }
+    #our-latest-blog h1 {
+        font-size: 29px;
+        margin-bottom: 57px;
+        padding-top: 41px;
+    }
+    .our-block1 p {
+        width: 131px;
+        font-size: 9px;
+        margin-bottom: 10px;
+        line-height: 17px;
+    }.our-latest-block1 {
+         height: 319px;
+         width: 163px;
+         border-radius: 6px;
+     }
+    .our-latest-block1 {
+        height: 319px;
+        width: 181px;
+        border-radius: 6px;
+        padding: 13px;
+    }
+
+    .our-block1 {
+        width: 191px;
+    }
+    .img-our-block {
+        margin-bottom: 9px;
+        height: 158px;
+        width: 179px;
+    }
+    .our-icondate {
+        margin-bottom: 1px;
+    }
+    .our-block1 h3 {
+        font-size: 11px;
+        margin-bottom: 3px;
+    }
+    .our-p1{
+        position: relative;
+        right: 30px;
+    }
+    .our-block1-btn button {
+        height: 23px;
+        width: 60px;
+        font-size: 7px;
+    }
+    .btn-message {
+        height: 24px;
+        width: 25px;
+    }
+    .btn-message ion-icon{
+        font-size: 14px;
+    }
+    .btn-connect {
+        height: 24px;
+        width: 24px;
+    }
+    .btn-connect ion-icon{
+        font-size: 14px;
+    }
+    .Newsletter{
+        flex-wrap: wrap;
+        padding-bottom: 40px;
+    }
+    .newsletter-block1 h3 {
+        padding-top: 60px;
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 17px;
+    }
+    .footer-icon-telegram {
+        top: 169px;
+        height: 30px;
+        width: 31px;
+    }
+
+
 
 }
 @media (max-width: 320px) {
+
+.create-blocks{
+    flex-wrap: wrap;
+}
+    #top-galleries{
+        padding-top: 500px;
+    }
+    .create-blocks {
+        width: 132px;
+    }
+    .learn-nfties{
+        flex-wrap: wrap;
+    }
+    .sakals{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .buy-and-text h1 {
+        width: 181px;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .buy-and-text p {
+        width: 157px;
+        font-size: 9px;
+    }
+    .Active {
+        margin-top: 26px;
+        height: 11px;
+        width: 178px;
+        padding: 20px 20px;
+    }
+    .buy-img1 {
+        width: 37px;
+        left: 188px;
+    }
+    .buy-kvadrat {
+        width: 31px;
+        height: 31px;
+        left: 257px;
+    }
+    .buy-img3 {
+        left: 213px;
+        width: 84px;
+        top: 39px;
+    }
+    .learn-history{
+        flex-wrap: wrap;
+        width: 276px;
+    }
+    #create-and-sell {
+        padding-top: 26px;
+    }
+
+
+}
+@media (max-width: 414px){
+    .learn-nfties {
+        flex-wrap: wrap;
+    }
+    .Statue {
+        height: 274px;
+        width: 301px;
+    }
+    .create-blocks{
+        flex-wrap: wrap;
+        width: 390px;
+    }
+    .create-block1 img {
+        margin-left: 69px;
+        width: 59px;
+        margin-top: 24px;
+    }
+    .create-block1 {
+        width: 166px;
+    }
+    .create-block1 p {
+        font-size: 14px;
+        line-height: 19px;
+        padding-bottom: 10px;
+    }
+    .create-block1 p {
+        width: 160px;
+    }
+    .create-block1 img {
+        margin-left: 57px;
+        margin-top: 13px;
+    }
+    #top-galleries h1 {
+        font-size: 31px;
+        padding-top: 259px;
+    }
+
 
 }
 
